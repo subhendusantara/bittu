@@ -1,2 +1,2 @@
 # bittu
-tgis is mt first repository
+this is my first repository
